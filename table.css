@@ -1,0 +1,28 @@
+body {
+  background-color: antiquewhite;
+  height: 50vh;
+}
+
+input {
+  height: 44px;
+  width: 150px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: black;
+  color: beige;
+  font-weight: bold;
+  text-align: center;
+}
+
+#table {
+  background-color: white;
+  color: black;
+  font-weight: bolder;
+  font-size: 22px;
+  max-width: 80vh;
+  margin: 0 auto;
+}
+
+#reset {
+  display: none;
+}
